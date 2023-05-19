@@ -1,0 +1,9 @@
+Bed White 799.00 567890 1
+Lamp Silver 39.99 678901 10
+Desk Oak 299.00 789012 2
+Dresser Mahogany 599.99 890123 3
+Cabinet Cherry 399.99 901234 2
+Bookcase Walnut 199.00 012345 5
+Mirror Gold 149.99 123012 1
+deneme deneme 1.00 000001 1
+cemil cemil 7.00 000007 7
